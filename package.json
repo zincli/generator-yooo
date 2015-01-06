@@ -1,0 +1,16 @@
+{
+  "name": "generator-yooo",
+  "version": "0.1.0",
+  "description": "yo learning demo",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "zinc.lx@alibaba-inc.com",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.18.1"
+  }
+}

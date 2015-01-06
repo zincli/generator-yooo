@@ -1,0 +1,13 @@
+{
+    "name": "<%= name %>",
+    "version": "<%= version %>",
+    "description": "<%= desc %>",
+    "author": "<%= author %>",
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "yeoman-generator": "~0.18.1"
+    }
+}
